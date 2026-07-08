@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavishya007-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -76,14 +76,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavishya007-bit&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Bhavishya007-bit&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavishya007-bit&theme=tokyo-night&hide_border=true" />
 </p>
-
----
 
 ### 🎯 Currently Focused On
 
