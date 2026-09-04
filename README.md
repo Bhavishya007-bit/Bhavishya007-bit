@@ -52,10 +52,9 @@
 
 
 ---
-### 📊 My Coding Activity
+### 📊 Most Used Languages
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bhavishya007-bit)](https://github.com/stats-organization/github-stats-extended)
-
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavishya007-bit&layout=donut)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 
