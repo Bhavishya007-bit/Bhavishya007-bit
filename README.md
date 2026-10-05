@@ -107,7 +107,7 @@
 ---
 
 <p align="center">
-  <i>💬 Open to collaboration on Computer Vision & Data Science projects, and interesting conversations about AI!</i>
+  <i>💬 Open to collaboration on Computer Vision, Data Science & AI ML projects, and interesting conversations about AI!</i>
 </p>
 
 <p align="center">
