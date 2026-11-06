@@ -121,8 +121,17 @@ Project stacks describe the technologies in each repository, including those I a
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavishya007-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="Bhavishya's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya007-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in public repositories" />
+  <a href="https://github.com/Bhavishya007-bit?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavishya007-bit&amp;theme=tokyonight" alt="Bhavishya's GitHub contribution activity over the past year" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Bhavishya007-bit?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhavishya007-bit&amp;theme=tokyonight" alt="Top languages by public repository count" />
+  </a>
+</p>
+
+<p align="center"><a href="https://github.com/Bhavishya007-bit?tab=overview">View live contributions on GitHub</a> · <a href="https://github.com/Bhavishya007-bit?tab=repositories">Browse repositories</a></p>
 
 <p align="center"><i>Open to conversations and collaboration in Computer Vision, Data Science, and AI/ML.</i></p>
